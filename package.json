@@ -1,0 +1,10 @@
+{
+  "name": "bajie-cannot-fly",
+  "version": "3.8.8",
+  "private": true,
+  "description": "Bajie Cannot Fly - WeChat mini game built with Cocos Creator 3.8.8",
+  "creator": {
+    "version": "3.8.8"
+  },
+  "uuid": "3c0aa90c-5c26-4483-ad4c-0daaa3d173db"
+}

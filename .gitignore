@@ -1,0 +1,24 @@
+# Cocos Creator generated directories
+/library/
+/temp/
+/local/
+/build/
+/profiles/
+
+# Package managers
+/node_modules/
+
+# IDE files
+/.vscode/
+/.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Native generated assets
+/native/engine/android/**/*/assets/
+
+# Local logs
+*.log
+
